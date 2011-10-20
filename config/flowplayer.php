@@ -1,0 +1,2 @@
+<?php
+$config['twitter_api_base_url'] = 'http://api.twitter.com/1/';
